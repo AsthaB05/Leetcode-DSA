@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0344-reverse-string) |
 | [1528-shuffle-string](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1528-shuffle-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2942-find-words-containing-character](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2942-find-words-containing-character) |
@@ -44,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1672-richest-customer-wealth) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
