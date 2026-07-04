@@ -7,10 +7,12 @@ class Solution {
             temp=s[start];
             s[start]=s[end];
             s[end]=temp;
+            System.out.print(s[end]);
             start++;
             end--;
+            
         }
-        for(int i=0; i<s.length; i++){
+        for(int i=0; i<(s.length)/2; i++){
             System.out.print(s[i]);
         }
     }
