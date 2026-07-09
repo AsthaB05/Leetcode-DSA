@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0485-max-consecutive-ones) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0344-reverse-string) |
 | [0905-sort-array-by-parity](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0905-sort-array-by-parity) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0189-rotate-array) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/AsthaB05/Leetcode-DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Divide and Conquer
 |  |
