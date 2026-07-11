@@ -8,7 +8,7 @@ class Solution {
                 count++;
             }
         }
-        max=Math.max(max,count);
+        max=count;
         
         for(int i=k; i<s.length(); i++){
             if(vwl.contains(String.valueOf(s.charAt(i-k)))){
