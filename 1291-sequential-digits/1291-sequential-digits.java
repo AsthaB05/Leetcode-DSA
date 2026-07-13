@@ -6,15 +6,14 @@ class Solution {
         int ll=String.valueOf(low).length();
         int hl=String.valueOf(high).length();
 
-        int i=0;
+        int i=ll;
         
-        while(i<=all.length()-ll){
-            int j=ll+i;
-            while(j<=all.length()){
-                if(Integer.parseInt(all.substring(i,j))>=low &&
-                Integer.parseInt(all.substring(i,j))<=high)
-                {
-                    list.add(Integer.parseInt(all.substring(i,j)));
+        while(i<=hl){
+            int j=0;
+            while(j<=all.length()-i){
+                int ss=Integer.parseInt(all.substring(j,i+j));
+                if(ss>=low && ss<=high){
+                    list.add(ss);
                 }
                 j++;               
             }
