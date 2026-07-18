@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2942-find-words-containing-character](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2942-find-words-containing-character) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AsthaB05/Leetcode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1748-sum-of-unique-elements](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1748-sum-of-unique-elements) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Sorting
 |  |
 | ------- |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AsthaB05/Leetcode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting Sort
 |  |
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1748-sum-of-unique-elements](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1748-sum-of-unique-elements) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## String
 |  |
 | ------- |
