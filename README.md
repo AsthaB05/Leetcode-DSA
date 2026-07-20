@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0073-set-matrix-zeroes) |
 | [1260-shift-2d-grid](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1260-shift-2d-grid) |
 | [1672-richest-customer-wealth](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1672-richest-customer-wealth) |
 ## Two Pointers
