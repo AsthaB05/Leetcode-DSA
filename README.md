@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0073-set-matrix-zeroes) |
