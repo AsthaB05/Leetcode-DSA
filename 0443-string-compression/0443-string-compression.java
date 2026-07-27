@@ -26,11 +26,10 @@ class Solution {
         }else{
             sb.append(start);
         }
-        String res=sb.toString();
-        for(int i=0; i<res.length(); i++){
-            chars[i]=res.charAt(i);
+        for(int i=0; i<sb.length(); i++){
+            chars[i]=sb.charAt(i);
         }
-        return res.length();
+        return sb.length();
         
     }
 }
