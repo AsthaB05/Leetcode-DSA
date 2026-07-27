@@ -10,21 +10,17 @@ class Solution {
             if(start==chars[i]){
                 count++;
             }else{
+                sb.append(start);
                 if(count>1){
-                    sb.append(start);
                     sb.append(count);
-                }else{
-                    sb.append(start);
                 }
                 count=1;
                 start=chars[i];
             }
         }
+        sb.append(start);
         if(count>1){
-            sb.append(start);
             sb.append(count);
-        }else{
-            sb.append(start);
         }
         for(int i=0; i<sb.length(); i++){
             chars[i]=sb.charAt(i);
