@@ -23,6 +23,7 @@ class Solution {
                         }
                         
                         i++;
+                        j--;
                     }else if(calc<target){
                         i++;
                     }else{
