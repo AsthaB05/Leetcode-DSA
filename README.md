@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0189-rotate-array) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0187-repeated-dna-sequences) |
 | [0231-power-of-two](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0231-power-of-two) |
 ## Rolling Hash
