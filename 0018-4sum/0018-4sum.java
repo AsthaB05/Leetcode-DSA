@@ -2,15 +2,15 @@ class Solution {
     public List<List<Integer>> fourSum(int[] nums, int target) {
         Arrays.sort(nums);
         List<List<Integer>> res=new ArrayList<>();
-        int p=0;
-        while(p<nums.length-3){
-            while(p<nums.length-3 && p>0 && nums[p-1]==nums[p]){
-                p++;
+        
+        for(int p=0; p<nums.length-3; p++){
+            if(p>0 && nums[p-1]==nums[p]){
+                continue;
             }
-            int q=p+1;
-            while(q<nums.length-2){
-                while(q<nums.length-2 && q>p+1 && nums[q-1]==nums[q]){
-                    q++;
+            
+            for(int q=p+1; q<nums.length-2; q++){
+                if(q>p+1 && nums[q-1]==nums[q]){
+                    continue;
                 }
                 int i=q+1;
                 int j=nums.length-1;
@@ -36,10 +36,8 @@ class Solution {
                     }else{
                         j--;
                     }
-                }
-                q++;
+                } 
             }
-            p++;
         }
         return res;
     }
