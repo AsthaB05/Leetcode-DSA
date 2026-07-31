@@ -10,6 +10,9 @@ class Solution {
         Arrays.sort(freq);
         int res=0;
         for(int i=25; i>=0; i--){
+            if(freq[i]==0){
+                break;
+            }
             if(i>=18){
                 res+=freq[i];
             }else if(i>=10){
