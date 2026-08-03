@@ -18,9 +18,9 @@ class Solution {
             sb.append('0');
             zero--;
         }
-        if(one>0){
-            sb.append('1');
-        }
+        
+        sb.append('1');
+        
         return sb.toString();
 
     }
