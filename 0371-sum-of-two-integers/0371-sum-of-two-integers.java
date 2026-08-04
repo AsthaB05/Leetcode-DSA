@@ -3,11 +3,11 @@ class Solution {
         int carry=0;
         int res=0;
         for(int i=0; i<32; i++){
-            int lasta=(a>>i)&1;
-            int lastb=(b>>i)&1;
-            int ans=lasta^lastb^carry;
-            res |= (ans<<i);
-            carry=(lasta & lastb) | (lasta & carry) | (lastb & carry);
+            int bita=(a>>i) & 1;
+            int bitb=(b>>i) & 1;
+            int ans=bita^bitb^carry;
+            res=res | (ans<<i);
+            carry=(bita & bitb) | (bita & carry) | (bitb & carry);
         }
         return res;
     }
