@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0201-bitwise-and-of-numbers-range](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0260-single-number-iii) |
+| [0338-counting-bits](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0371-sum-of-two-integers) |
 | [0461-hamming-distance](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0461-hamming-distance) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0338-counting-bits) |
 | [0877-stone-game](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
