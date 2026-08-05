@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0187-repeated-dna-sequences) |
 | [0217-contains-duplicate](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0383-ransom-note) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0414-third-maximum-number) |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0371-sum-of-two-integers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -241,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0633-sum-of-square-numbers) |
 ## Prefix Sum
@@ -290,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0201-bitwise-and-of-numbers-range](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0371-sum-of-two-integers) |
