@@ -8,7 +8,7 @@ class Solution {
             if((bita | bitb)!=bitc){
                 if(bitc==1){
                     count++;
-                }else if(bitc==0 && (bita==1 && bitb==1)){
+                }else if(bita==1 && bitb==1){
                     count+=2;
                 }else{
                     count++;
