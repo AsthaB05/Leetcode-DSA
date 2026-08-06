@@ -6,9 +6,7 @@ class Solution {
             int bitb=(b>>i) & 1;
             int bitc=(c>>i) & 1;
             if((bita | bitb)!=bitc){
-                if(bitc==1){
-                    count++;
-                }else if(bita==1 && bitb==1){
+                if(bita==1 && bitb==1){
                     count+=2;
                 }else{
                     count++;
