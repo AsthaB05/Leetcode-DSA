@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0187-repeated-dna-sequences) |
 | [0344-reverse-string](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0344-reverse-string) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0067-add-binary) |
 | [1260-shift-2d-grid](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1260-shift-2d-grid) |
 | [1389-create-target-array-in-the-given-order](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1389-create-target-array-in-the-given-order) |
 | [1929-concatenation-of-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1929-concatenation-of-array) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0268-missing-number) |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0137-single-number-ii) |
 | [0187-repeated-dna-sequences](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0187-repeated-dna-sequences) |
