@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0066-plus-one) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0137-single-number-ii) |
