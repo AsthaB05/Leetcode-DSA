@@ -17,15 +17,11 @@ class Solution {
         }
         return countP;
     }
-    public boolean isPrime(int count){
-        if(count==1){
-            return false;
+    public boolean isPrime(int c){
+        if(c==2 || c==3 || c==5 || c==7 || c==11 || c==13 || c==17 || c==19){
+            return true;
         }
-        for(int i=2; i<=Math.sqrt(count); i++){
-            if(count%i==0){
-                return false;
-            }
-        }
-        return true;
+        
+        return false;
     }
 }
