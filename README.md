@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0371-sum-of-two-integers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0633-sum-of-square-numbers) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0877-stone-game](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2864-maximum-odd-binary-number](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2864-maximum-odd-binary-number) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0461-hamming-distance](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0476-number-complement) |
 | [0693-binary-number-with-alternating-bits](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1009-complement-of-base-10-integer](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1009-complement-of-base-10-integer) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
@@ -357,4 +359,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0877-stone-game) |
+## Primality Test
+|  |
+| ------- |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 <!---LeetCode Topics End-->
