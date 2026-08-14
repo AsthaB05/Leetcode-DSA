@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1389-create-target-array-in-the-given-order) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1528-shuffle-string](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1528-shuffle-string) |
 | [1672-richest-customer-wealth](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1672-richest-customer-wealth) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1748-sum-of-unique-elements](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1748-sum-of-unique-elements) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0633-sum-of-square-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0877-stone-game](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0877-stone-game) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2864-maximum-odd-binary-number](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2864-maximum-odd-binary-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AsthaB05/Leetcode-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0724-find-pivot-index) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 ## Sliding Window
 |  |
 | ------- |
@@ -333,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
 | [1009-complement-of-base-10-integer](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1009-complement-of-base-10-integer) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
