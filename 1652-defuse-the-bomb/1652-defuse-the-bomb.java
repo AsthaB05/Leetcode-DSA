@@ -1,30 +1,38 @@
 class Solution {
     public int[] decrypt(int[] code, int k) {
         int[] res=new int[code.length];
-        for(int i=0; i<code.length; i++){
-            int sum=0;
-            if(k>0){
-                int temp=k;
-                int j=i+1;
-                while(temp>0){
-                    sum+=code[j%code.length];
-                    temp--;
-                    j++;
+        if(k==0){
+            return res;
+        }
+        int sum=0;
+        int start=0;
+        if(k>0){
+            int end=0;
+            while(start<code.length){
+                sum+=code[(end+1)%code.length];
+                if((end-start+1)<k){
+                    end++;
+                }else{
+                    res[start]=sum;
+                    sum-=code[(start+1)%code.length];
+                    start++;
+                    end++;
                 }
-                res[i]=sum;
-            }else if(k<0){
-                int temp=Math.abs(k);
-                int j=(i-1)+code.length;
-                while(temp>0){
-                    sum+=code[Math.abs(j%code.length)];
-                    temp--;
-                    j--;
+                
+            }   
+        }else{
+            int end=code.length+k;
+            while(start<code.length){
+                sum+=code[end%code.length];
+                if((end-(code.length+k)+1)<-k){
+                    end++;
+                }else{
+                    res[start]=sum;
+                    sum-=code[(code.length+k+start)%code.length];
+                    start++;
+                    end++;
                 }
-                res[i]=sum;
-            }else{
-                res[i]=0;
             }
-            
         }
         return res;
     }
