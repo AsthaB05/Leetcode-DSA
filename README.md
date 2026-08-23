@@ -415,4 +415,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0014-longest-common-prefix) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
