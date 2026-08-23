@@ -1,26 +1,17 @@
 class Solution {
     public List<String> findRepeatedDnaSequences(String s) {
-        HashSet<String> set=new HashSet<>();
-        HashSet<String> repeat=new HashSet<>();
+        HashMap<String, Integer> map=new HashMap<>();
         List<String> list=new ArrayList<>();
-        if(s.length()<10){
+        if(s.length()<=10){
             return list;
         }
-        int k=10;
-        for(int i=k; i<=s.length(); i++){
-            String sub=s.substring(i-k,i);
-            if(!set.contains(sub)){
-                set.add(sub);
-            }else if(!repeat.contains(sub)){
-                repeat.add(sub);
+        for(int i=0; i<=s.length()-10; i++){
+            String sb=s.substring(i,i+10);
+            map.put(sb,map.getOrDefault(sb,0)+1);
+            if(map.get(sb)==2){
+                list.add(sb);
             }
         }
-        for(String res:repeat){
-            list.add(res);
-        }
-    
         return list;
-        
-
     }
 }
