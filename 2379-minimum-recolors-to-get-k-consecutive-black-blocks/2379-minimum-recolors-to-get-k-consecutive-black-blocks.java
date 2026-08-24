@@ -9,8 +9,7 @@ class Solution {
         }
         min=Math.min(min,count);
         for(int i=k; i<blocks.length(); i++){
-            String s=blocks.substring(i-k,i);
-            if(s.charAt(0)=='W'){
+            if(blocks.charAt(i-k)=='W'){
                 count--;
             }
             if(blocks.charAt(i)=='W'){
