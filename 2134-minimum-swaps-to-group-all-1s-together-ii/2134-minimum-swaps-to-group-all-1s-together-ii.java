@@ -8,13 +8,13 @@ class Solution {
         int end=0;
         int sum=0; 
         int max=0;
-        while(end<(nums.length+k)){
+        while(start<nums.length){
             sum+=nums[end%nums.length];
             if((end-start+1)<k){
                 end++;
             }else{
                 max=Math.max(max,sum);
-                sum-=nums[start%nums.length];
+                sum-=nums[start];
                 start++;
                 end++;
             }
