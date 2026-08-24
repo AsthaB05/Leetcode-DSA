@@ -7,7 +7,7 @@ class Solution {
                 count++;
             }
         }
-        min=Math.min(min,count);
+        min=count;
         for(int i=k; i<blocks.length(); i++){
             if(blocks.charAt(i-k)=='W'){
                 count--;
