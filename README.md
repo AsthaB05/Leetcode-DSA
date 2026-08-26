@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AsthaB05/Leetcode-DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AsthaB05/Leetcode-DSA/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AsthaB05/Leetcode-DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/AsthaB05/Leetcode-DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AsthaB05/Leetcode-DSA/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0724-find-pivot-index) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AsthaB05/Leetcode-DSA/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AsthaB05/Leetcode-DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AsthaB05/Leetcode-DSA/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -330,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AsthaB05/Leetcode-DSA/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Union-Find
 |  |
 | ------- |
@@ -365,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 | [2595-number-of-even-and-odd-bits](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2595-number-of-even-and-odd-bits) |
 | [2917-find-the-k-or-of-an-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2917-find-the-k-or-of-an-array) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AsthaB05/Leetcode-DSA/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/AsthaB05/Leetcode-DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Rolling Hash
 |  |
