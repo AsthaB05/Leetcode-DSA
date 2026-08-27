@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0905-sort-array-by-parity) |
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
+| [1004-max-consecutive-ones-iii](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1122-relative-sort-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1260-shift-2d-grid) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0633-sum-of-square-numbers) |
+| [1004-max-consecutive-ones-iii](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0724-find-pivot-index) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
+| [1004-max-consecutive-ones-iii](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AsthaB05/Leetcode-DSA/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Sliding Window
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
+| [1004-max-consecutive-ones-iii](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1652-defuse-the-bomb](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1652-defuse-the-bomb) |
