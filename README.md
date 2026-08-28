@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1389-create-target-array-in-the-given-order) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1528-shuffle-string](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1528-shuffle-string) |
 | [1652-defuse-the-bomb](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1652-defuse-the-bomb) |
 | [1672-richest-customer-wealth](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1672-richest-customer-wealth) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1652-defuse-the-bomb](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1652-defuse-the-bomb) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0118-pascals-triangle) |
 | [0338-counting-bits](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0338-counting-bits) |
 | [0877-stone-game](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0877-stone-game) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Game Theory
 |  |
 | ------- |
