@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1122-relative-sort-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1207-unique-number-of-occurrences) |
+| [1248-count-number-of-nice-subarrays](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
 | [1122-relative-sort-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1207-unique-number-of-occurrences) |
+| [1248-count-number-of-nice-subarrays](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0633-sum-of-square-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0877-stone-game](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0877-stone-game) |
+| [1248-count-number-of-nice-subarrays](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2864-maximum-odd-binary-number](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2864-maximum-odd-binary-number) |
@@ -312,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0724-find-pivot-index) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1004-max-consecutive-ones-iii](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AsthaB05/Leetcode-DSA/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Sliding Window
@@ -326,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1004-max-consecutive-ones-iii](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1652-defuse-the-bomb](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1652-defuse-the-bomb) |
