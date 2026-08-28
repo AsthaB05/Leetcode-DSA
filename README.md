@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2917-find-the-k-or-of-an-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2917-find-the-k-or-of-an-array) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2942-find-words-containing-character](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2942-find-words-containing-character) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2225-find-players-with-zero-or-one-losses](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AsthaB05/Leetcode-DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
