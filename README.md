@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0633-sum-of-square-numbers) |
 | [0905-sort-array-by-parity](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0905-sort-array-by-parity) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AsthaB05/Leetcode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2864-maximum-odd-binary-number](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2864-maximum-odd-binary-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AsthaB05/Leetcode-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AsthaB05/Leetcode-DSA/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -350,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1652-defuse-the-bomb) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -457,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0338-counting-bits) |
 | [0877-stone-game](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0877-stone-game) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Game Theory
 |  |
 | ------- |
