@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2225-find-players-with-zero-or-one-losses](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2401-longest-nice-subarray](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2401-longest-nice-subarray) |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2537-count-the-number-of-good-subarrays) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2401-longest-nice-subarray](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2401-longest-nice-subarray) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2799-count-complete-subarrays-in-an-array) |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2401-longest-nice-subarray](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2401-longest-nice-subarray) |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 | [2595-number-of-even-and-odd-bits](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2595-number-of-even-and-odd-bits) |
 | [2917-find-the-k-or-of-an-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2917-find-the-k-or-of-an-array) |
