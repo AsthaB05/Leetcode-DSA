@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0567-permutation-in-string) |
+| [0763-partition-labels](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0771-jewels-and-stones) |
 | [0930-binary-subarrays-with-sum](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0567-permutation-in-string) |
+| [0763-partition-labels](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0771-jewels-and-stones) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1208-get-equal-substrings-within-budget](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1208-get-equal-substrings-within-budget) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0633-sum-of-square-numbers) |
+| [0763-partition-labels](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0763-partition-labels) |
 | [0905-sort-array-by-parity](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0905-sort-array-by-parity) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -515,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0763-partition-labels](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0763-partition-labels) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2864-maximum-odd-binary-number](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2864-maximum-odd-binary-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AsthaB05/Leetcode-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
