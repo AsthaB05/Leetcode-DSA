@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1528-shuffle-string) |
 | [1652-defuse-the-bomb](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1652-defuse-the-bomb) |
 | [1672-richest-customer-wealth](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1672-richest-customer-wealth) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1695-maximum-erasure-value](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1695-maximum-erasure-value) |
 | [1748-sum-of-unique-elements](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1748-sum-of-unique-elements) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1695-maximum-erasure-value](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1695-maximum-erasure-value) |
 | [1748-sum-of-unique-elements](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1748-sum-of-unique-elements) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -326,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0986-interval-list-intersections](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0986-interval-list-intersections) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2109-adding-spaces-to-a-string) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
