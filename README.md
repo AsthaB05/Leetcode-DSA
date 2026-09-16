@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2401-longest-nice-subarray](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2401-longest-nice-subarray) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2537-count-the-number-of-good-subarrays) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0073-set-matrix-zeroes) |
 | [1260-shift-2d-grid](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1260-shift-2d-grid) |
 | [1672-richest-customer-wealth](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1672-richest-customer-wealth) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2428-maximum-sum-of-an-hourglass) |
 ## Two Pointers
 |  |
 | ------- |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AsthaB05/Leetcode-DSA/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/AsthaB05/Leetcode-DSA/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3903-smallest-stable-index-i](https://github.com/AsthaB05/Leetcode-DSA/tree/master/3903-smallest-stable-index-i) |
