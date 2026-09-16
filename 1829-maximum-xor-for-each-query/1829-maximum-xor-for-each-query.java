@@ -5,8 +5,7 @@ class Solution {
         for(int i=0; i<nums.length; i++){
             xor^=nums[i];
         }
-        int pow=(int)Math.pow(2,maximumBit);
-        int max=pow-1;
+        int max=((int)Math.pow(2,maximumBit))-1;
         int idx=0;
         for(int i=nums.length-1; i>=0; i--){
             res[idx]=xor^max;
