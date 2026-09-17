@@ -1,30 +1,25 @@
 class Solution {
     public int findTheLongestSubstring(String s) {
-        HashMap<String,Integer> map=new HashMap<>();
-        int[] vowel=new int[5];
-        String sub="00000";
+        HashMap<Integer,Integer> map=new HashMap<>();
+        int mask=0;
         int res=0;
-        map.put("00000",-1);
+        map.put(mask,-1);
         for(int i=0; i<s.length(); i++){
             if(s.charAt(i)=='a'){
-                vowel[0]=(vowel[0]+1)%2;
+                mask=mask^(1<<0);
             }else if(s.charAt(i)=='e'){
-                vowel[1]=(vowel[1]+1)%2;
+                mask=mask^(1<<1);
             }else if(s.charAt(i)=='i'){
-                vowel[2]=(vowel[2]+1)%2;
+                mask=mask^(1<<2);
             }else if(s.charAt(i)=='o'){
-                vowel[3]=(vowel[3]+1)%2;
+                mask=mask^(1<<3);
             }else if(s.charAt(i)=='u'){
-                vowel[4]=(vowel[4]+1)%2;
+                mask=mask^(1<<4);
             }
-            sub="";
-            for(int j=0; j<5; j++){
-                sub+=vowel[j];
-            }
-            if(map.containsKey(sub)){
-                res=Math.max(res,(i-map.get(sub)));
+            if(map.containsKey(mask)){
+                res=Math.max(res,(i-map.get(mask)));
             }else{
-                map.put(sub,i);
+                map.put(mask,i);
             }
         }
         return res;
