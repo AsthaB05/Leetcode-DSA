@@ -17,15 +17,15 @@ class NumMatrix {
     }
     
     public int sumRegion(int row1, int col1, int row2, int col2) {
-        int res=0;
+        int res=sum[row2][col2];
         if(row1==0 && col1==0){
-            res=sum[row2][col2];
+            return res;
         }else if(row1==0){
-            res=sum[row2][col2]-sum[row2][col1-1];
+            res=res-sum[row2][col1-1];
         }else if(col1==0){
-            res=sum[row2][col2]-sum[row1-1][col2];
+            res=res-sum[row1-1][col2];
         }else{
-            res=sum[row2][col2]-sum[row1-1][col2]-sum[row2][col1-1]+sum[row1-1][col1-1];
+            res=res-sum[row1-1][col2]-sum[row2][col1-1]+sum[row1-1][col1-1];
         }
         return res;
     }
