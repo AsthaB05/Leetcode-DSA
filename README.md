@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1004-max-consecutive-ones-iii](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1052-grumpy-bookstore-owner) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1122-relative-sort-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1248-count-number-of-nice-subarrays) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
 | [0992-subarrays-with-k-different-integers](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1122-relative-sort-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1248-count-number-of-nice-subarrays) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0304-range-sum-query-2d-immutable](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0304-range-sum-query-2d-immutable) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1260-shift-2d-grid](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1260-shift-2d-grid) |
 | [1314-matrix-block-sum](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1314-matrix-block-sum) |
 | [1672-richest-customer-wealth](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1672-richest-customer-wealth) |
@@ -435,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1004-max-consecutive-ones-iii](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1208-get-equal-substrings-within-budget](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1208-get-equal-substrings-within-budget) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1310-xor-queries-of-a-subarray](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1310-xor-queries-of-a-subarray) |
