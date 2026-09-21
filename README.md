@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2428-maximum-sum-of-an-hourglass](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2536-increment-submatrices-by-one](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2536-increment-submatrices-by-one) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2592-maximize-greatness-of-an-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2592-maximize-greatness-of-an-array) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2799-count-complete-subarrays-in-an-array) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1672-richest-customer-wealth) |
 | [1895-largest-magic-square](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1895-largest-magic-square) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2428-maximum-sum-of-an-hourglass) |
+| [2536-increment-submatrices-by-one](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2536-increment-submatrices-by-one) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/AsthaB05/Leetcode-DSA/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Two Pointers
 |  |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2428-maximum-sum-of-an-hourglass) |
+| [2536-increment-submatrices-by-one](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2536-increment-submatrices-by-one) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/AsthaB05/Leetcode-DSA/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AsthaB05/Leetcode-DSA/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/AsthaB05/Leetcode-DSA/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
