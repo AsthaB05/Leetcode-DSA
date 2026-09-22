@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2785-sort-vowels-in-a-string](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2785-sort-vowels-in-a-string) |
 | [2864-maximum-odd-binary-number](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2864-maximum-odd-binary-number) |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2428-maximum-sum-of-an-hourglass) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2536-increment-submatrices-by-one](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2536-increment-submatrices-by-one) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/AsthaB05/Leetcode-DSA/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
