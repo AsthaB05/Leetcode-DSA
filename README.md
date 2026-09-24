@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1652-defuse-the-bomb) |
 | [1672-richest-customer-wealth](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1672-richest-customer-wealth) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1695-maximum-erasure-value](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1695-maximum-erasure-value) |
 | [1748-sum-of-unique-elements](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1748-sum-of-unique-elements) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2396-strictly-palindromic-number](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2396-strictly-palindromic-number) |
@@ -460,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1829-maximum-xor-for-each-query](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1829-maximum-xor-for-each-query) |
 | [1895-largest-magic-square](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1895-largest-magic-square) |
