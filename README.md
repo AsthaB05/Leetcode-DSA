@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1528-shuffle-string](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1528-shuffle-string) |
 | [1652-defuse-the-bomb](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1652-defuse-the-bomb) |
+| [1664-ways-to-make-a-fair-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1664-ways-to-make-a-fair-array) |
 | [1672-richest-customer-wealth](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1672-richest-customer-wealth) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
@@ -465,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [1664-ways-to-make-a-fair-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1664-ways-to-make-a-fair-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1829-maximum-xor-for-each-query](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1829-maximum-xor-for-each-query) |
