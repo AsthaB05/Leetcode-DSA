@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1288-remove-covered-intervals) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1310-xor-queries-of-a-subarray](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1310-xor-queries-of-a-subarray) |
 | [1314-matrix-block-sum](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1314-matrix-block-sum) |
 | [1331-rank-transform-of-an-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1260-shift-2d-grid](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1260-shift-2d-grid) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1314-matrix-block-sum](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1314-matrix-block-sum) |
 | [1672-richest-customer-wealth](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1672-richest-customer-wealth) |
 | [1895-largest-magic-square](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1895-largest-magic-square) |
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0633-sum-of-square-numbers) |
 | [1004-max-consecutive-ones-iii](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1208-get-equal-substrings-within-budget) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2302-count-subarrays-with-score-less-than-k) |
@@ -461,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1109-corporate-flight-bookings](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1109-corporate-flight-bookings) |
 | [1208-get-equal-substrings-within-budget](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1208-get-equal-substrings-within-budget) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1310-xor-queries-of-a-subarray](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1310-xor-queries-of-a-subarray) |
 | [1314-matrix-block-sum](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1314-matrix-block-sum) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
