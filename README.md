@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0304-range-sum-query-2d-immutable](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1260-shift-2d-grid](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1260-shift-2d-grid) |
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
