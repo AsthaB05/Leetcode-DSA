@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2109-adding-spaces-to-a-string) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2187-minimum-time-to-complete-trips) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
