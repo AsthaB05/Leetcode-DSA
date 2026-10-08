@@ -13,12 +13,11 @@ class Solution {
                     start=mid+1;
                 }
             }
-            if(start==potions.length-1 && end==potions.length-1 && ((long)spells[i]*potions[potions.length-1])<success){
-                res[i]=0;
-            }else{
+            if(((long)spells[i]*potions[start])>=success){
                 res[i]=potions.length-start;
+            }else{
+                res[i]=0;
             }
-            
         }
         return res;
     }
