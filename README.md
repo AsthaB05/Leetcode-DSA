@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0877-stone-game) |
@@ -464,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0633-sum-of-square-numbers) |
+| [0704-binary-search](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
