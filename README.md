@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2225-find-players-with-zero-or-one-losses](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2401-longest-nice-subarray](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2401-longest-nice-subarray) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2592-maximize-greatness-of-an-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2592-maximize-greatness-of-an-array) |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2396-strictly-palindromic-number](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2396-strictly-palindromic-number) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
@@ -475,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2187-minimum-time-to-complete-trips) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
