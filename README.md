@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2917-find-the-k-or-of-an-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2917-find-the-k-or-of-an-array) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2942-find-words-containing-character](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2942-find-words-containing-character) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
@@ -640,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2401-longest-nice-subarray](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2401-longest-nice-subarray) |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 | [2595-number-of-even-and-odd-bits](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2595-number-of-even-and-odd-bits) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2917-find-the-k-or-of-an-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2917-find-the-k-or-of-an-array) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AsthaB05/Leetcode-DSA/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -686,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2592-maximize-greatness-of-an-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2592-maximize-greatness-of-an-array) |
 | [2864-maximum-odd-binary-number](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2864-maximum-odd-binary-number) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2938-separate-black-and-white-balls](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2938-separate-black-and-white-balls) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AsthaB05/Leetcode-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AsthaB05/Leetcode-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
