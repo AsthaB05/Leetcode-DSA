@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1748-sum-of-unique-elements) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1829-maximum-xor-for-each-query](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1829-maximum-xor-for-each-query) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-largest-magic-square](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1895-largest-magic-square) |
 | [1929-concatenation-of-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1929-concatenation-of-array) |
@@ -488,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2187-minimum-time-to-complete-trips) |
