@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1389-create-target-array-in-the-given-order](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1389-create-target-array-in-the-given-order) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1508-range-sum-of-sorted-subarray-sums) |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0763-partition-labels) |
 | [0905-sort-array-by-parity](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0905-sort-array-by-parity) |
 | [0986-interval-list-intersections](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0986-interval-list-intersections) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -487,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1208-get-equal-substrings-within-budget](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1208-get-equal-substrings-within-budget) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1870-minimum-speed-to-arrive-on-time) |
