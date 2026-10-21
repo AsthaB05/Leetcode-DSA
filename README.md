@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2187-minimum-time-to-complete-trips](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2187-minimum-time-to-complete-trips) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2187-minimum-time-to-complete-trips](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2187-minimum-time-to-complete-trips) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2302-count-subarrays-with-score-less-than-k) |
@@ -699,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2439-minimize-maximum-of-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2439-minimize-maximum-of-array) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2448-minimum-cost-to-make-array-equal) |
