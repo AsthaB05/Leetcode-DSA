@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0018-4sum) |
@@ -471,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0191-number-of-1-bits) |
@@ -478,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0074-search-a-2d-matrix) |
