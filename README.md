@@ -332,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
+| [2409-count-days-spent-together](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2409-count-days-spent-together) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2559-count-vowel-strings-in-ranges) |
@@ -455,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2396-strictly-palindromic-number](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2396-strictly-palindromic-number) |
+| [2409-count-days-spent-together](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2409-count-days-spent-together) |
 | [2864-maximum-odd-binary-number](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2864-maximum-odd-binary-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AsthaB05/Leetcode-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AsthaB05/Leetcode-DSA/tree/master/3345-smallest-divisible-digit-product-i) |
