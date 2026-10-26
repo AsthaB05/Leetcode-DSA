@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2187-minimum-time-to-complete-trips](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2187-minimum-time-to-complete-trips) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2251-number-of-flowers-in-full-bloom](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2251-number-of-flowers-in-full-bloom](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2251-number-of-flowers-in-full-bloom](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2448-minimum-cost-to-make-array-equal) |
@@ -512,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2187-minimum-time-to-complete-trips](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2187-minimum-time-to-complete-trips) |
+| [2251-number-of-flowers-in-full-bloom](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2439-minimize-maximum-of-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2439-minimize-maximum-of-array) |
@@ -546,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1829-maximum-xor-for-each-query](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1829-maximum-xor-for-each-query) |
 | [1895-largest-magic-square](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1895-largest-magic-square) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2251-number-of-flowers-in-full-bloom](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2428-maximum-sum-of-an-hourglass) |
@@ -795,4 +800,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+## Ordered Set
+|  |
+| ------- |
+| [2251-number-of-flowers-in-full-bloom](https://github.com/AsthaB05/Leetcode-DSA/tree/master/2251-number-of-flowers-in-full-bloom) |
 <!---LeetCode Topics End-->
