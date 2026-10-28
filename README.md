@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0724-find-pivot-index) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0877-stone-game) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0905-sort-array-by-parity](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0905-sort-array-by-parity) |
 | [1122-relative-sort-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1122-relative-sort-array) |
 | [1288-remove-covered-intervals](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1288-remove-covered-intervals) |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0633-sum-of-square-numbers) |
 | [0763-partition-labels](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0763-partition-labels) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0905-sort-array-by-parity](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0905-sort-array-by-parity) |
 | [0986-interval-list-intersections](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0986-interval-list-intersections) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -500,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0704-binary-search) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -692,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/AsthaB05/Leetcode-DSA/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AsthaB05/Leetcode-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bucket Sort
 |  |
