@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AsthaB05/Leetcode-DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/AsthaB05/Leetcode-DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/AsthaB05/Leetcode-DSA/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3668-restore-finishing-order](https://github.com/AsthaB05/Leetcode-DSA/tree/master/3668-restore-finishing-order) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/AsthaB05/Leetcode-DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AsthaB05/Leetcode-DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/AsthaB05/Leetcode-DSA/tree/master/3731-find-missing-elements) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AsthaB05/Leetcode-DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AsthaB05/Leetcode-DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AsthaB05/Leetcode-DSA/tree/master/3483-unique-3-digit-even-numbers) |
+| [3668-restore-finishing-order](https://github.com/AsthaB05/Leetcode-DSA/tree/master/3668-restore-finishing-order) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AsthaB05/Leetcode-DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/AsthaB05/Leetcode-DSA/tree/master/3731-find-missing-elements) |
 ## Sorting
